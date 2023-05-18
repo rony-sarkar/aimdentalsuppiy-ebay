@@ -130,7 +130,7 @@ img {
 
 .header-area {
     padding: 15px 0;
-    background-color: #000;
+    background-color: #fff;
 }
 
 .header-area p {
@@ -172,7 +172,7 @@ img {
 }
 
 .header-area ul li {
-    color: #fff;
+    color: #000;
     display: inline-block;
     list-style: none;
     text-align: center;
