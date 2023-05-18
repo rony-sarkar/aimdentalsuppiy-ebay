@@ -189,7 +189,7 @@ img {
     content: "";
     width: 2px;
     height: 27px;
-    background-color: #fff;
+    background-color: #000;
 }
 
 .header-area ul li:first-child::before {
@@ -202,6 +202,7 @@ img {
 
 .header-area ul li span {
     display: block;
+    color: #000;
 }
 
 
